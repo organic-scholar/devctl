@@ -1,0 +1,5 @@
+s3Endpoint: null
+s3Bucket: devctl
+
+authUrl: https://dev-rn476imehrhsh56t.eu.auth0.com/oauth
+authClientId: 8uwhNiVKrkXKk20K8ZuFGuRamkRAHAyD
